@@ -72,7 +72,7 @@ composite IAM roles, possibly driven by Chef roles or other metadata.
 Attributes
 ----------
 
-* `node['citadel']['bucket']` – The default S3 bucket to use.
+* `node['citadel']['bucket']` - The default S3 bucket to use.
 
 Recipe Usage
 ------------
